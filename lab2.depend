@@ -19,3 +19,13 @@
 
 1510736777 c:\users\robin\workspace\tvc\lab2\subtraction.h
 
+1510737061 source:c:\users\robin\workspace\tvc\lab2\calculator.c
+	"calculator.h"
+
+1510745525 c:\users\robin\workspace\tvc\lab2\calculator.h
+
+1510745525 source:c:\users\robin\workspace\tvc\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculator.h"
+
