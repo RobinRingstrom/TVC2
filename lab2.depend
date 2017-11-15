@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510736777 source:c:\users\robin\workspace\tvc\lab2\addition.c
+	"addition.h"
+
+1510736777 c:\users\robin\workspace\tvc\lab2\addition.h
+
+1510736768 source:c:\users\robin\workspace\tvc\lab2\division.c
+	"division.h"
+
+1510736777 c:\users\robin\workspace\tvc\lab2\division.h
+
+1510736777 source:c:\users\robin\workspace\tvc\lab2\multiplication.c
+	"multiplication.h"
+
+1510736777 c:\users\robin\workspace\tvc\lab2\multiplication.h
+
+1510736777 source:c:\users\robin\workspace\tvc\lab2\subtraction.c
+	"subtraction.h"
+
+1510736777 c:\users\robin\workspace\tvc\lab2\subtraction.h
+
