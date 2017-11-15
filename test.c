@@ -7,13 +7,14 @@ int main()
 {
     UNITY_BEGIN();
 
+    RUN_TEST(testAddition);
     testAddition();
 
     UNITY_END();
     return 0;
 }
 
-void testAddition()
+void testAddition(void)
 {
     double actual = add(1.0,1.0);
     double expected = 0.0;
