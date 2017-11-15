@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1510736777 source:c:\users\robin\workspace\tvc\lab2\addition.c
+1510746382 source:c:\users\robin\workspace\tvc\lab2\addition.c
 	"addition.h"
 
-1510736777 c:\users\robin\workspace\tvc\lab2\addition.h
+1510746384 c:\users\robin\workspace\tvc\lab2\addition.h
 
 1510736768 source:c:\users\robin\workspace\tvc\lab2\division.c
 	"division.h"

@@ -2,6 +2,5 @@
 
 double add(double source, double target)
 {
-
-    return 0.0;
+    return (double)(source + target);
 }
