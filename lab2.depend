@@ -1,31 +1,55 @@
 # depslib dependency file v1.0
-1510746382 source:c:\users\robin\workspace\tvc\lab2\addition.c
+1510747708 source:c:\users\robin\workspace\tvc\lab2\addition.c
 	"addition.h"
 
 1510746384 c:\users\robin\workspace\tvc\lab2\addition.h
 
-1510736768 source:c:\users\robin\workspace\tvc\lab2\division.c
+1510750604 source:c:\users\robin\workspace\tvc\lab2\division.c
 	"division.h"
 
-1510736777 c:\users\robin\workspace\tvc\lab2\division.h
+1510750525 c:\users\robin\workspace\tvc\lab2\division.h
 
-1510736777 source:c:\users\robin\workspace\tvc\lab2\multiplication.c
+1510750675 source:c:\users\robin\workspace\tvc\lab2\multiplication.c
 	"multiplication.h"
 
-1510736777 c:\users\robin\workspace\tvc\lab2\multiplication.h
+1510750463 c:\users\robin\workspace\tvc\lab2\multiplication.h
 
-1510736777 source:c:\users\robin\workspace\tvc\lab2\subtraction.c
+1510748482 source:c:\users\robin\workspace\tvc\lab2\subtraction.c
 	"subtraction.h"
 
-1510736777 c:\users\robin\workspace\tvc\lab2\subtraction.h
+1510748504 c:\users\robin\workspace\tvc\lab2\subtraction.h
 
-1510737061 source:c:\users\robin\workspace\tvc\lab2\calculator.c
+1510751049 source:c:\users\robin\workspace\tvc\lab2\calculator.c
+	<stdio.h>
 	"calculator.h"
 
-1510745525 c:\users\robin\workspace\tvc\lab2\calculator.h
+1510749124 c:\users\robin\workspace\tvc\lab2\calculator.h
+	"addition.h"
+	"subtraction.h"
+	"division.h"
+	"multiplication.h"
 
-1510745525 source:c:\users\robin\workspace\tvc\lab2\main.c
+1510750825 source:c:\users\robin\workspace\tvc\lab2\main.c
 	<stdio.h>
 	<stdlib.h>
 	"calculator.h"
+
+1510750305 source:c:\users\robin\workspace\tvc\lab2\test.c
+	"../unity/src/unity.h"
+	"addition.h"
+	"subtraction.h"
+	"division.h"
+	"multiplication.h"
+
+1509771892 c:\users\robin\workspace\tvc\unity\src\unity.h
+	"unity_internals.h"
+
+1509771892 c:\users\robin\workspace\tvc\unity\src\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
 

@@ -5,7 +5,7 @@
 int main()
 {
 
-
+    runCalculator();
 
 
     return 0;
